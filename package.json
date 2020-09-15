@@ -1,0 +1,13 @@
+{
+  "name": "node_rpg1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cli-interact": "^0.1.9",
+    "node-json-db": "^1.1.0"
+  },
+  "devDependencies": {},
+  "type": "module",
+  "bin": "battle.js"
+}
