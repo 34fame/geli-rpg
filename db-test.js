@@ -1,4 +1,4 @@
-import * as db from "./rpgDB";
+const db = require("./rpgDB");
 
 let collection = "players";
 let obj = { name: "Graypes", level: 1 };
