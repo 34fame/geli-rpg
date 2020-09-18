@@ -25,4 +25,3 @@ const generatePlayers = () => {
 
 export default generatePlayers;
 
-generatePlayers();
